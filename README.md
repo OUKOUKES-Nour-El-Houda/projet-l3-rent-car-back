@@ -6,5 +6,12 @@
 -Avoir java 21
 -Avoir creer un compte sur Github
 # step
--Clone project: idans le terminal executer cette commande ( git clone https://github.com/OUKOUKES-Nour-El-Houda/projet-l3-rent-car-back.git)
+-Clone project: idans le terminal executer cette commande: ```sh 
+git clone https://github.com/OUKOUKES-Nour-El-Houda/projet-l3-rent-car-back.git
 -Ouvrir mon projet sur Intelligi
+-Cliquer sur maven dans la barre laterale sur la droite puis sur terminal, ensuite taper la commande 'mvn clean install'
+-Lancer l'application en mode debug 
+-Cliquez sur la fleche vers le bas situee a cote du nom de l'application dans la barre de menu superieure, puis selectionnez l'option 'Edit Configurations'
+-Sur le terminal taper la commande 'docker-compose up'
+-Relancer l'application en mode debug 
+-Entrer sur le navigateur l'url suivante: localhost:8089
